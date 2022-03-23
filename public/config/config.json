@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x71b13F61E084ccA4E8Bc32C942fF6EF088f684C6",
+  "SCAN_LINK": "https://polygonscan.com/address/0x71b13f61e084cca4e8bc32c942ff6ef088f684c6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "JeepersNFT",
+  "SYMBOL": "JPR",
+  "MAX_SUPPLY": 9750,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/jeepersnft",
+  "SHOW_BACKGROUND": true
+}
